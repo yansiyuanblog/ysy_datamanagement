@@ -1,0 +1,1 @@
+result_summary<-metat %>%    group_by(Project, Model,Drug_batch,Strain,Gender,Time_Point,Drug,  Dosage, Batch1) %>%    summarize(n() )

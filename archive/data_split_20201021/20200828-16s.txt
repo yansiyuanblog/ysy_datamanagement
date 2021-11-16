@@ -1,0 +1,228 @@
+Project_category	Species	SampleID	Project	Model	Groups	Drug	Drug_batch	Dosage	Dosage_unit	Gender	Birth_date	Collection_date	Age_week	Strain	Cage_num	Source	Feed_site	Batch	Comment	Time_Point	Subject_add_X	Bacteria_16s	16s_lab	Metagenome	Metagenome_lab	Metabolism	Metabolism_lab	Immunity	Path
+222	mice	B5501	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s			B5501								
+222	mice	B5502	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s			B5502								
+222	mice	B5479	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s			B5479								
+222	mice	B5480	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s			B5480								
+222	mice	B5505	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s			B5505								
+222	mice	B5506	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s			B5506								
+222	mice	B5507	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s			B5507								
+222	mice	B5508	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s			B5508								
+222	mice	B5509	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s			B5509								
+222	mice	B5510	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s			B5510								
+222	mice	B5512	DP-2020-002		FLU20	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	3	Weitonglihua	Bikai	20200828-16s			B5512								
+222	mice	B5514	DP-2020-002		FLU20	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	3	Weitonglihua	Bikai	20200828-16s			B5514								
+222	mice	B5515	DP-2020-002		FLU20	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	3	Weitonglihua	Bikai	20200828-16s			B5515								
+222	mice	B5517	DP-2020-002		FLU20	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s			B5517								
+222	mice	B5518	DP-2020-002		FLU20	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s			B5518								
+222	mice	B5519	DP-2020-002		FLU20	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s			B5519								
+222	mice	B5520	DP-2020-002		FLU20	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s			B5520								
+222	mice	B5503	DP-2020-002		FLU20	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s			B5503								
+222	mice	B5531	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s			B5531								
+222	mice	B5532	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s			B5532								
+222	mice	B5533	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s			B5533								
+222	mice	B5534	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s			B5534								
+222	mice	B5535	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s			B5535								
+222	mice	B5536	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s			B5536								
+222	mice	B5478	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s			B5478								
+222	mice	B5538	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s			B5538								
+222	mice	B5539	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s			B5539								
+222	mice	B5540	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s			B5540								
+222	mice	B5525	DP-2020-002		JYC-0190	Vehicle		0		M	2020/4/28	2020/6/8	6 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s			B5525								
+222	mice	B5501-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s		time1	B5501_A								
+222	mice	B5502-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s		time1	B5502_A								
+222	mice	B5479-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s		time1	B5479_A								
+222	mice	B5480-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s		time1	B5480_A								
+222	mice	B5505-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	1	Weitonglihua	Bikai	20200828-16s		time1	B5505_A								
+222	mice	B5506-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s		time1	B5506_A								
+222	mice	B5507-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s		time1	B5507_A								
+222	mice	B5508-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s		time1	B5508_A								
+222	mice	B5509-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s		time1	B5509_A								
+222	mice	B5510-A	DP-2020-002		Vehicle	Vehicle		0		M	2020/4/28	2020/7/13	11 	C57BL/6	2	Weitonglihua	Bikai	20200828-16s		time1	B5510_A								
+222	mice	B5512-A	DP-2020-002		FLU20	FLU		20	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	3	Weitonglihua	Bikai	20200828-16s		time1	B5512_A								
+222	mice	B5514-A	DP-2020-002		FLU20	FLU		20	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	3	Weitonglihua	Bikai	20200828-16s		time1	B5514_A								
+222	mice	B5515-A	DP-2020-002		FLU20	FLU		20	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	3	Weitonglihua	Bikai	20200828-16s		time1	B5515_A								
+222	mice	B5517-A	DP-2020-002		FLU20	FLU		20	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s		time1	B5517_A								
+222	mice	B5518-A	DP-2020-002		FLU20	FLU		20	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s		time1	B5518_A								
+222	mice	B5519-A	DP-2020-002		FLU20	FLU		20	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s		time1	B5519_A								
+222	mice	B5520-A	DP-2020-002		FLU20	FLU		20	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s		time1	B5520_A								
+222	mice	B5503-A	DP-2020-002		FLU20	FLU		20	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	4	Weitonglihua	Bikai	20200828-16s		time1	B5503_A								
+222	mice	B5531-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s		time1	B5531_A								
+222	mice	B5532-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s		time1	B5532_A								
+222	mice	B5533-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s		time1	B5533_A								
+222	mice	B5534-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s		time1	B5534_A								
+222	mice	B5535-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	7	Weitonglihua	Bikai	20200828-16s		time1	B5535_A								
+222	mice	B5536-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s		time1	B5536_A								
+222	mice	B5478-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s		time1	B5478_A								
+222	mice	B5538-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s		time1	B5538_A								
+222	mice	B5539-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s		time1	B5539_A								
+222	mice	B5540-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s		time1	B5540_A								
+222	mice	B5525-A	DP-2020-002		JYC-0190	JYC-01		90	mpk	M	2020/4/28	2020/7/13	11 	C57BL/6	8	Weitonglihua	Bikai	20200828-16s		time1	B5525_A								
+tumor	mice	E2758-A	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/14	5	BALB/c	1	Linchang	Pengli	20200828-16s		time1	E2758_A								
+tumor	mice	E2688-A	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/14	5	BALB/c	1	Linchang	Pengli	20200828-16s		time1	E2688_A								
+tumor	mice	E2661-A	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/14	5	BALB/c	1	Linchang	Pengli	20200828-16s		time1	E2661_A								
+tumor	mice	E2687-A	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/14	5	BALB/c	1	Linchang	Pengli	20200828-16s		time1	E2687_A								
+tumor	mice	E2757-A	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/14	5	BALB/c	2	Linchang	Pengli	20200828-16s		time1	E2757_A								
+tumor	mice	E2730-A	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/14	5	BALB/c	2	Linchang	Pengli	20200828-16s		time1	E2730_A								
+tumor	mice	E2712-A	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/14	5	BALB/c	2	Linchang	Pengli	20200828-16s		time1	E2712_A								
+tumor	mice	E2779-A	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/14	5	BALB/c	2	Linchang	Pengli	20200828-16s		time1	E2779_A								
+tumor	mice	E2693-A	ONC-2020-026	CT26	ADU-S1005ug	Vehicle		0		F		2020/7/14	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time1	E2693_A								
+tumor	mice	E2756-A	ONC-2020-026	CT26	ADU-S1005ug	Vehicle		0		F		2020/7/14	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time1	E2756_A								
+tumor	mice	E2738-A	ONC-2020-026	CT26	ADU-S1005ug	Vehicle		0		F		2020/7/14	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time1	E2738_A								
+tumor	mice	E2737-A	ONC-2020-026	CT26	ADU-S1005ug	Vehicle		0		F		2020/7/14	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time1	E2737_A								
+tumor	mice	E2724-A	ONC-2020-026	CT26	ADU-S1005ug	Vehicle		0		F		2020/7/14	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time1	E2724_A								
+tumor	mice	E2752-A	ONC-2020-026	CT26	ADU-S1005ug	Vehicle		0		F		2020/7/14	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time1	E2752_A								
+tumor	mice	E2663-A	ONC-2020-026	CT26	ADU-S1005ug	Vehicle		0		F		2020/7/14	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time1	E2663_A								
+tumor	mice	E2774-A	ONC-2020-026	CT26	ADU-S1005ug	Vehicle		0		F		2020/7/14	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time1	E2774_A								
+tumor	mice	E2665-A	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	Vehicle		0		F		2020/7/14	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time1	E2665_A								
+tumor	mice	E2673-A	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	Vehicle		0		F		2020/7/14	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time1	E2673_A								
+tumor	mice	E2739-A	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	Vehicle		0		F		2020/7/14	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time1	E2739_A								
+tumor	mice	E2677-A	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	Vehicle		0		F		2020/7/14	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time1	E2677_A								
+tumor	mice	E2766-A	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	Vehicle		0		F		2020/7/14	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time1	E2766_A								
+tumor	mice	E2720-A	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	Vehicle		0		F		2020/7/14	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time1	E2720_A								
+tumor	mice	E2662-A	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	Vehicle		0		F		2020/7/14	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time1	E2662_A								
+tumor	mice	E2690-A	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	Vehicle		0		F		2020/7/14	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time1	E2690_A								
+tumor	mice	E2723-A	ONC-2020-026	CT26	GV00920190230mpk	Vehicle		0		F		2020/7/14	5	BALB/c	7	Linchang	Pengli	20200828-16s		time1	E2723_A								
+tumor	mice	E2747-A	ONC-2020-026	CT26	GV00920190230mpk	Vehicle		0		F		2020/7/14	5	BALB/c	7	Linchang	Pengli	20200828-16s		time1	E2747_A								
+tumor	mice	E2682-A	ONC-2020-026	CT26	GV00920190230mpk	Vehicle		0		F		2020/7/14	5	BALB/c	7	Linchang	Pengli	20200828-16s		time1	E2682_A								
+tumor	mice	E2775-A	ONC-2020-026	CT26	GV00920190230mpk	Vehicle		0		F		2020/7/14	5	BALB/c	7	Linchang	Pengli	20200828-16s		time1	E2775_A								
+tumor	mice	E2771-A	ONC-2020-026	CT26	GV00920190230mpk	Vehicle		0		F		2020/7/14	5	BALB/c	8	Linchang	Pengli	20200828-16s		time1	E2771_A								
+tumor	mice	E2711-A	ONC-2020-026	CT26	GV00920190230mpk	Vehicle		0		F		2020/7/14	5	BALB/c	8	Linchang	Pengli	20200828-16s		time1	E2711_A								
+tumor	mice	E2672-A	ONC-2020-026	CT26	GV00920190230mpk	Vehicle		0		F		2020/7/14	5	BALB/c	8	Linchang	Pengli	20200828-16s		time1	E2672_A								
+tumor	mice	E2764-A	ONC-2020-026	CT26	GV00920190230mpk	Vehicle		0		F		2020/7/14	5	BALB/c	8	Linchang	Pengli	20200828-16s		time1	E2764_A								
+tumor	mice	E2750-A	ONC-2020-026	CT26						F		2020/7/14	5	BALB/c	9	Linchang	Pengli	20200828-16s			E2750_A								
+tumor	mice	E2709-A	ONC-2020-026	CT26						F		2020/7/14	5	BALB/c	9	Linchang	Pengli	20200828-16s			E2709_A								
+tumor	mice	E2717-A	ONC-2020-026	CT26						F		2020/7/14	5	BALB/c	9	Linchang	Pengli	20200828-16s			E2717_A								
+tumor	mice	E2780-A	ONC-2020-026	CT26						F		2020/7/14	5	BALB/c	9	Linchang	Pengli	20200828-16s			E2780_A								
+tumor	mice	E2748-A	ONC-2020-026	CT26						F		2020/7/14	5	BALB/c	9	Linchang	Pengli	20200828-16s			E2748_A								
+tumor	mice	E2731-A	ONC-2020-026	CT26						F		2020/7/14	5	BALB/c	9	Linchang	Pengli	20200828-16s			E2731_A								
+tumor	mice	E2743-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time1	E2743_A								
+tumor	mice	E2769-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time1	E2769_A								
+tumor	mice	E2751-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time1	E2751_A								
+tumor	mice	E2728-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time1	E2728_A								
+tumor	mice	E2714-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time1	E2714_A								
+tumor	mice	E2754-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time1	E2754_A								
+tumor	mice	E2722-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time1	E2722_A								
+tumor	mice	E2676-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time1	E2676_A								
+tumor	mice	E2732-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time1	E2732_A								
+tumor	mice	E2713-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time1	E2713_A								
+tumor	mice	E2669-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time1	E2669_A								
+tumor	mice	E2727-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time1	E2727_A								
+tumor	mice	E2685-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第2次	time1	E2685_A								
+tumor	mice	E2760-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time1	E2760_A								
+tumor	mice	E2777-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time1	E2777_A								
+tumor	mice	E2726-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time1	E2726_A								
+tumor	mice	E2680-A	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/14	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time1	E2680_A								
+tumor	mice	E2758-B	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/22	5	BALB/c	1	Linchang	Pengli	20200828-16s		time2	E2758_B								
+tumor	mice	E2688-B	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/22	5	BALB/c	1	Linchang	Pengli	20200828-16s		time2	E2688_B								
+tumor	mice	E2661-B	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/22	5	BALB/c	1	Linchang	Pengli	20200828-16s		time2	E2661_B								
+tumor	mice	E2687-B	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/22	5	BALB/c	1	Linchang	Pengli	20200828-16s		time2	E2687_B								
+tumor	mice	E2757-B	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/22	5	BALB/c	2	Linchang	Pengli	20200828-16s		time2	E2757_B								
+tumor	mice	E2730-B	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/22	5	BALB/c	2	Linchang	Pengli	20200828-16s		time2	E2730_B								
+tumor	mice	E2712-B	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/22	5	BALB/c	2	Linchang	Pengli	20200828-16s		time2	E2712_B								
+tumor	mice	E2779-B	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/22	5	BALB/c	2	Linchang	Pengli	20200828-16s		time2	E2779_B								
+tumor	mice	E2693-B	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time2	E2693_B								
+tumor	mice	E2756-B	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time2	E2756_B								
+tumor	mice	E2738-B	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time2	E2738_B								
+tumor	mice	E2737-B	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time2	E2737_B								
+tumor	mice	E2724-B	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time2	E2724_B								
+tumor	mice	E2752-B	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time2	E2752_B								
+tumor	mice	E2663-B	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time2	E2663_B								
+tumor	mice	E2774-B	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time2	E2774_B								
+tumor	mice	E2665-B	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/22	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time2	E2665_B								
+tumor	mice	E2673-B	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/22	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time2	E2673_B								
+tumor	mice	E2739-B	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/22	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time2	E2739_B								
+tumor	mice	E2677-B	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/22	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time2	E2677_B								
+tumor	mice	E2766-B	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/22	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time2	E2766_B								
+tumor	mice	E2720-B	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/22	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time2	E2720_B								
+tumor	mice	E2662-B	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/22	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time2	E2662_B								
+tumor	mice	E2690-B	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/22	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time2	E2690_B								
+tumor	mice	E2723-B	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/22	5	BALB/c	7	Linchang	Pengli	20200828-16s		time2	E2723_B								
+tumor	mice	E2747-B	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/22	5	BALB/c	7	Linchang	Pengli	20200828-16s		time2	E2747_B								
+tumor	mice	E2682-B	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/22	5	BALB/c	7	Linchang	Pengli	20200828-16s		time2	E2682_B								
+tumor	mice	E2775-B	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/22	5	BALB/c	7	Linchang	Pengli	20200828-16s		time2	E2775_B								
+tumor	mice	E2771-B	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/22	5	BALB/c	8	Linchang	Pengli	20200828-16s		time2	E2771_B								
+tumor	mice	E2711-B	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/22	5	BALB/c	8	Linchang	Pengli	20200828-16s		time2	E2711_B								
+tumor	mice	E2672-B	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/22	5	BALB/c	8	Linchang	Pengli	20200828-16s		time2	E2672_B								
+tumor	mice	E2764-B	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/22	5	BALB/c	8	Linchang	Pengli	20200828-16s		time2	E2764_B								
+tumor	mice	E2758-C	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/30	5	BALB/c	1	Linchang	Pengli	20200828-16s		time3	E2758_C								
+tumor	mice	E2688-C	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/30	5	BALB/c	1	Linchang	Pengli	20200828-16s		time3	E2688_C								
+tumor	mice	E2661-C	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/30	5	BALB/c	1	Linchang	Pengli	20200828-16s		time3	E2661_C								
+tumor	mice	E2687-C	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/30	5	BALB/c	1	Linchang	Pengli	20200828-16s		time3	E2687_C								
+tumor	mice	E2757-C	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/30	5	BALB/c	2	Linchang	Pengli	20200828-16s		time3	E2757_C								
+tumor	mice	E2730-C	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/30	5	BALB/c	2	Linchang	Pengli	20200828-16s		time3	E2730_C								
+tumor	mice	E2712-C	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/30	5	BALB/c	2	Linchang	Pengli	20200828-16s		time3	E2712_C								
+tumor	mice	E2779-C	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/7/30	5	BALB/c	2	Linchang	Pengli	20200828-16s		time3	E2779_C								
+tumor	mice	E2693-C	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/30	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time3	E2693_C								
+tumor	mice	E2756-C	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/30	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time3	E2756_C								
+tumor	mice	E2738-C	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/30	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time3	E2738_C								
+tumor	mice	E2737-C	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/30	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time3	E2737_C								
+tumor	mice	E2724-C	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/30	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time3	E2724_C								
+tumor	mice	E2752-C	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/30	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time3	E2752_C								
+tumor	mice	E2663-C	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/30	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time3	E2663_C								
+tumor	mice	E2774-C	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/30	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time3	E2774_C								
+tumor	mice	E2665-C	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/30	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time3	E2665_C								
+tumor	mice	E2673-C	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/30	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time3	E2673_C								
+tumor	mice	E2739-C	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/30	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time3	E2739_C								
+tumor	mice	E2677-C	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/30	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time3	E2677_C								
+tumor	mice	E2766-C	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/30	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time3	E2766_C								
+tumor	mice	E2720-C	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/30	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time3	E2720_C								
+tumor	mice	E2662-C	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/30	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time3	E2662_C								
+tumor	mice	E2690-C	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/7/30	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time3	E2690_C								
+tumor	mice	E2723-C	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/30	5	BALB/c	7	Linchang	Pengli	20200828-16s		time3	E2723_C								
+tumor	mice	E2747-C	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/30	5	BALB/c	7	Linchang	Pengli	20200828-16s		time3	E2747_C								
+tumor	mice	E2682-C	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/30	5	BALB/c	7	Linchang	Pengli	20200828-16s		time3	E2682_C								
+tumor	mice	E2775-C	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/30	5	BALB/c	7	Linchang	Pengli	20200828-16s		time3	E2775_C								
+tumor	mice	E2771-C	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/30	5	BALB/c	8	Linchang	Pengli	20200828-16s		time3	E2771_C								
+tumor	mice	E2711-C	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/30	5	BALB/c	8	Linchang	Pengli	20200828-16s		time3	E2711_C								
+tumor	mice	E2672-C	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/30	5	BALB/c	8	Linchang	Pengli	20200828-16s		time3	E2672_C								
+tumor	mice	E2764-C	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/7/30	5	BALB/c	8	Linchang	Pengli	20200828-16s		time3	E2764_C								
+tumor	mice	E2723-D	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/8/6	5	BALB/c	7	Linchang	Pengli	20200828-16s		time4	E2723_D								
+tumor	mice	E2747-D	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/8/6	5	BALB/c	7	Linchang	Pengli	20200828-16s		time4	E2747_D								
+tumor	mice	E2682-D	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/8/6	5	BALB/c	7	Linchang	Pengli	20200828-16s		time4	E2682_D								
+tumor	mice	E2775-D	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/8/6	5	BALB/c	7	Linchang	Pengli	20200828-16s		time4	E2775_D								
+tumor	mice	E2771-D	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/8/6	5	BALB/c	8	Linchang	Pengli	20200828-16s		time4	E2771_D								
+tumor	mice	E2711-D	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/8/6	5	BALB/c	8	Linchang	Pengli	20200828-16s		time4	E2711_D								
+tumor	mice	E2672-D	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/8/6	5	BALB/c	8	Linchang	Pengli	20200828-16s		time4	E2672_D								
+tumor	mice	E2764-D	ONC-2020-026	CT26	GV00920190230mpk	GV009	201902	30	mpk	F		2020/8/6	5	BALB/c	8	Linchang	Pengli	20200828-16s		time4	E2764_D								
+tumor	mice	E2743-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/17	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time4	E2743_D								
+tumor	mice	E2769-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/17	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time4	E2769_D								
+tumor	mice	E2751-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/17	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time4	E2751_D								
+tumor	mice	E2728-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/17	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time4	E2728_D								
+tumor	mice	E2714-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/17	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time4	E2714_D								
+tumor	mice	E2754-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/17	5	BALB/c	10	Linchang	Pengli	20200828-16s	给药第1次	time4	E2754_D								
+tumor	mice	E2722-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time4	E2722_D								
+tumor	mice	E2676-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time4	E2676_D								
+tumor	mice	E2732-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time4	E2732_D								
+tumor	mice	E2713-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time4	E2713_D								
+tumor	mice	E2669-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time4	E2669_D								
+tumor	mice	E2727-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/22	5	BALB/c	11	Linchang	Pengli	20200828-16s	给药第2次	time4	E2727_D								
+tumor	mice	E2685-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/29	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第2次	time4	E2685_D								
+tumor	mice	E2760-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/29	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time4	E2760_D								
+tumor	mice	E2742-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/29	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time4	E2742_D								
+tumor	mice	E2777-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/29	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time4	E2777_D								
+tumor	mice	E2726-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/29	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time4	E2726_D								
+tumor	mice	E2680-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/7/29	5	BALB/c	12	Linchang	Pengli	20200828-16s	给药第3次	time4	E2680_D								
+tumor	mice	E2758-D	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/8/6	5	BALB/c	1	Linchang	Pengli	20200828-16s		time4	E2758_D								
+tumor	mice	E2688-D	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/8/6	5	BALB/c	1	Linchang	Pengli	20200828-16s		time4	E2688_D								
+tumor	mice	E2661-D	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/8/6	5	BALB/c	1	Linchang	Pengli	20200828-16s		time4	E2661_D								
+tumor	mice	E2687-D	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/8/6	5	BALB/c	1	Linchang	Pengli	20200828-16s		time4	E2687_D								
+tumor	mice	E2757-D	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/8/6	5	BALB/c	2	Linchang	Pengli	20200828-16s		time4	E2757_D								
+tumor	mice	E2730-D	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/8/6	5	BALB/c	2	Linchang	Pengli	20200828-16s		time4	E2730_D								
+tumor	mice	E2712-D	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/8/6	5	BALB/c	2	Linchang	Pengli	20200828-16s		time4	E2712_D								
+tumor	mice	E2779-D	ONC-2020-026	CT26	Vehicle	Vehicle		0		F		2020/8/6	5	BALB/c	2	Linchang	Pengli	20200828-16s		time4	E2779_D								
+tumor	mice	E2693-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/8/6	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time4	E2693_D								
+tumor	mice	E2756-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/8/6	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time4	E2756_D								
+tumor	mice	E2738-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/8/6	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time4	E2738_D								
+tumor	mice	E2737-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/8/6	5	BALB/c	3	Linchang	Pengli	20200828-16s	给药第3次	time4	E2737_D								
+tumor	mice	E2724-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/8/6	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time4	E2724_D								
+tumor	mice	E2752-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/8/6	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time4	E2752_D								
+tumor	mice	E2663-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/8/6	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time4	E2663_D								
+tumor	mice	E2774-D	ONC-2020-026	CT26	ADU-S1005ug	ADU-S100		5	ug	F		2020/8/6	5	BALB/c	4	Linchang	Pengli	20200828-16s	给药第3次	time4	E2774_D								
+tumor	mice	E2665-D	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/8/6	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time4	E2665_D								
+tumor	mice	E2673-D	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/8/6	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time4	E2673_D								
+tumor	mice	E2739-D	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/8/6	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time4	E2739_D								
+tumor	mice	E2677-D	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/8/6	5	BALB/c	5	Linchang	Pengli	20200828-16s	给药第3次	time4	E2677_D								
+tumor	mice	E2766-D	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/8/6	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time4	E2766_D								
+tumor	mice	E2720-D	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/8/6	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time4	E2720_D								
+tumor	mice	E2662-D	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/8/6	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time4	E2662_D								
+tumor	mice	E2690-D	ONC-2020-026	CT26	ADU-S100/GV009NA/2019025/30ug/mpk	ADU-S100/GV009	NA/201902	5/30	ug/mpk	F		2020/8/6	5	BALB/c	6	Linchang	Pengli	20200828-16s	给药第3次	time4	E2690_D								

@@ -1,0 +1,238 @@
+﻿Project_category,Species,SampleID,Project,Model,Groups,Drug,Drug_batch,Dosage,Dosage_unit,Gender,Birth_date,Arrival_date,Arrival_age_week,Collection_date,Age_week,Strain,Cage_num,Source,Feed_site,Batch1,Comment,Time_Point,Subject_add_X,Bacteria_16s,16s_lab
+tumor,mice,E3201-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3201_A,y,Fengyuan
+tumor,mice,E3202-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3202_A,y,Fengyuan
+tumor,mice,E3203-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3203_A,y,Fengyuan
+tumor,mice,E3204-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3204_A,y,Fengyuan
+tumor,mice,E3205-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3205_A,y,Fengyuan
+tumor,mice,E3241-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3241_A,y,Fengyuan
+tumor,mice,E3242-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3242_A,y,Fengyuan
+tumor,mice,E3243-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3243_A,y,Fengyuan
+tumor,mice,E3244-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3244_A,y,Fengyuan
+tumor,mice,E3245-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3245_A,y,Fengyuan
+tumor,mice,E3251-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3251_A,y,Fengyuan
+tumor,mice,E3252-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3252_A,y,Fengyuan
+tumor,mice,E3253-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3253_A,y,Fengyuan
+tumor,mice,E3254-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3254_A,y,Fengyuan
+tumor,mice,E3255-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3255_A,y,Fengyuan
+tumor,mice,E3256-A,ONC-2020-038,SP20,,,,,,Female,,,5,2020/8/18,6299 ,BALB/c,,Linchang,Pengli,20200929-16S,接种前,time1,E3256_A,y,Fengyuan
+tumor,mice,E3211-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,1,Linchang,Pengli,20200929-16S,给药前,time2,E3211_B,y,Fengyuan
+tumor,mice,E3212-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,1,Linchang,Pengli,20200929-16S,给药前,time2,E3212_B,y,Fengyuan
+tumor,mice,E3213-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,1,Linchang,Pengli,20200929-16S,给药前,time2,E3213_B,y,Fengyuan
+tumor,mice,E3214-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,1,Linchang,Pengli,20200929-16S,给药前,time2,E3214_B,y,Fengyuan
+tumor,mice,E3215-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,1,Linchang,Pengli,20200929-16S,给药前,time2,E3215_B,y,Fengyuan
+tumor,mice,E3221-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,1,Linchang,Pengli,20200929-16S,给药前,time2,E3221_B,y,Fengyuan
+tumor,mice,E3226-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,2,Linchang,Pengli,20200929-16S,给药前,time2,E3226_B,y,Fengyuan
+tumor,mice,E3227-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,2,Linchang,Pengli,20200929-16S,给药前,time2,E3227_B,y,Fengyuan
+tumor,mice,E3228-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,2,Linchang,Pengli,20200929-16S,给药前,time2,E3228_B,y,Fengyuan
+tumor,mice,E3229-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,2,Linchang,Pengli,20200929-16S,给药前,time2,E3229_B,y,Fengyuan
+tumor,mice,E3230-B,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,2,Linchang,Pengli,20200929-16S,给药前,time2,E3230_B,y,Fengyuan
+tumor,mice,E3216-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,3,Linchang,Pengli,20200929-16S,给药前,time2,E3216_B,y,Fengyuan
+tumor,mice,E3217-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,3,Linchang,Pengli,20200929-16S,给药前,time2,E3217_B,y,Fengyuan
+tumor,mice,E3218-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,3,Linchang,Pengli,20200929-16S,给药前,time2,E3218_B,y,Fengyuan
+tumor,mice,E3219-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,3,Linchang,Pengli,20200929-16S,给药前,time2,E3219_B,y,Fengyuan
+tumor,mice,E3220-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,3,Linchang,Pengli,20200929-16S,给药前,time2,E3220_B,y,Fengyuan
+tumor,mice,E3246-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,4,Linchang,Pengli,20200929-16S,给药前,time2,E3246_B,y,Fengyuan
+tumor,mice,E3247-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,4,Linchang,Pengli,20200929-16S,给药前,time2,E3247_B,y,Fengyuan
+tumor,mice,E3248-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,4,Linchang,Pengli,20200929-16S,给药前,time2,E3248_B,y,Fengyuan
+tumor,mice,E3249-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,4,Linchang,Pengli,20200929-16S,给药前,time2,E3249_B,y,Fengyuan
+tumor,mice,E3250-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,4,Linchang,Pengli,20200929-16S,给药前,time2,E3250_B,y,Fengyuan
+tumor,mice,E3224-B,ONC-2020-038,SP20,GV00920190630mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,4,Linchang,Pengli,20200929-16S,给药前,time2,E3224_B,y,Fengyuan
+tumor,mice,E3206-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,5,Linchang,Pengli,20200929-16S,给药前,time2,E3206_B,y,Fengyuan
+tumor,mice,E3207-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,5,Linchang,Pengli,20200929-16S,给药前,time2,E3207_B,y,Fengyuan
+tumor,mice,E3208-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,5,Linchang,Pengli,20200929-16S,给药前,time2,E3208_B,y,Fengyuan
+tumor,mice,E3209-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,5,Linchang,Pengli,20200929-16S,给药前,time2,E3209_B,y,Fengyuan
+tumor,mice,E3210-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,5,Linchang,Pengli,20200929-16S,给药前,time2,E3210_B,y,Fengyuan
+tumor,mice,E3231-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,6,Linchang,Pengli,20200929-16S,给药前,time2,E3231_B,y,Fengyuan
+tumor,mice,E3232-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,6,Linchang,Pengli,20200929-16S,给药前,time2,E3232_B,y,Fengyuan
+tumor,mice,E3233-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,6,Linchang,Pengli,20200929-16S,给药前,time2,E3233_B,y,Fengyuan
+tumor,mice,E3234-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,6,Linchang,Pengli,20200929-16S,给药前,time2,E3234_B,y,Fengyuan
+tumor,mice,E3235-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,6,Linchang,Pengli,20200929-16S,给药前,time2,E3235_B,y,Fengyuan
+tumor,mice,E3225-B,ONC-2020-038,SP20,GV00920190660mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,6,Linchang,Pengli,20200929-16S,给药前,time2,E3225_B,y,Fengyuan
+tumor,mice,E3236-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,7,Linchang,Pengli,20200929-16S,给药前,time2,E3236_B,y,Fengyuan
+tumor,mice,E3237-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,7,Linchang,Pengli,20200929-16S,给药前,time2,E3237_B,y,Fengyuan
+tumor,mice,E3238-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,7,Linchang,Pengli,20200929-16S,给药前,time2,E3238_B,y,Fengyuan
+tumor,mice,E3239-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,7,Linchang,Pengli,20200929-16S,给药前,time2,E3239_B,y,Fengyuan
+tumor,mice,E3240-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,7,Linchang,Pengli,20200929-16S,给药前,time2,E3240_B,y,Fengyuan
+tumor,mice,E3222-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,7,Linchang,Pengli,20200929-16S,给药前,time2,E3222_B,y,Fengyuan
+tumor,mice,E3241-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,8,Linchang,Pengli,20200929-16S,给药前,time2,E3241_B,y,Fengyuan
+tumor,mice,E3242-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,8,Linchang,Pengli,20200929-16S,给药前,time2,E3242_B,y,Fengyuan
+tumor,mice,E3243-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,8,Linchang,Pengli,20200929-16S,给药前,time2,E3243_B,y,Fengyuan
+tumor,mice,E3244-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,8,Linchang,Pengli,20200929-16S,给药前,time2,E3244_B,y,Fengyuan
+tumor,mice,E3245-B,ONC-2020-038,SP20,GV009201906120mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,8,Linchang,Pengli,20200929-16S,给药前,time2,E3245_B,y,Fengyuan
+tumor,mice,E3251-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,9,Linchang,Pengli,20200929-16S,给药前,time2,E3251_B,y,Fengyuan
+tumor,mice,E3252-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,9,Linchang,Pengli,20200929-16S,给药前,time2,E3252_B,y,Fengyuan
+tumor,mice,E3253-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,9,Linchang,Pengli,20200929-16S,给药前,time2,E3253_B,y,Fengyuan
+tumor,mice,E3254-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,9,Linchang,Pengli,20200929-16S,给药前,time2,E3254_B,y,Fengyuan
+tumor,mice,E3255-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,9,Linchang,Pengli,20200929-16S,给药前,time2,E3255_B,y,Fengyuan
+tumor,mice,E3256-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,9,Linchang,Pengli,20200929-16S,给药前,time2,E3256_B,y,Fengyuan
+tumor,mice,E3201-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,10,Linchang,Pengli,20200929-16S,给药前,time2,E3201_B,y,Fengyuan
+tumor,mice,E3202-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,10,Linchang,Pengli,20200929-16S,给药前,time2,E3202_B,y,Fengyuan
+tumor,mice,E3203-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,10,Linchang,Pengli,20200929-16S,给药前,time2,E3203_B,y,Fengyuan
+tumor,mice,E3204-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,10,Linchang,Pengli,20200929-16S,给药前,time2,E3204_B,y,Fengyuan
+tumor,mice,E3205-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,10,Linchang,Pengli,20200929-16S,给药前,time2,E3205_B,y,Fengyuan
+tumor,mice,E3223-B,ONC-2020-038,SP20,GV009201906240mpk,,,,,Female,,,5,2020/8/19,6300 ,BALB/c,10,Linchang,Pengli,20200929-16S,给药前,time2,E3223_B,y,Fengyuan
+tumor,mice,E3211-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,1,Linchang,Pengli,20200929-16S,结束前,time3,E3211_C,y,Fengyuan
+tumor,mice,E3212-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,1,Linchang,Pengli,20200929-16S,结束前,time3,E3212_C,y,Fengyuan
+tumor,mice,E3213-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,1,Linchang,Pengli,20200929-16S,结束前,time3,E3213_C,y,Fengyuan
+tumor,mice,E3214-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,1,Linchang,Pengli,20200929-16S,结束前,time3,E3214_C,y,Fengyuan
+tumor,mice,E3215-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,1,Linchang,Pengli,20200929-16S,结束前,time3,E3215_C,y,Fengyuan
+tumor,mice,E3221-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,1,Linchang,Pengli,20200929-16S,结束前,time3,E3221_C,y,Fengyuan
+tumor,mice,E3226-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,2,Linchang,Pengli,20200929-16S,结束前,time3,E3226_C,y,Fengyuan
+tumor,mice,E3227-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,2,Linchang,Pengli,20200929-16S,结束前,time3,E3227_C,y,Fengyuan
+tumor,mice,E3228-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,2,Linchang,Pengli,20200929-16S,结束前,time3,E3228_C,y,Fengyuan
+tumor,mice,E3229-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,2,Linchang,Pengli,20200929-16S,结束前,time3,E3229_C,y,Fengyuan
+tumor,mice,E3230-C,ONC-2020-038,SP20,Vehicle,,,,,Female,,,5,2020/9/3,6302 ,BALB/c,2,Linchang,Pengli,20200929-16S,结束前,time3,E3230_C,y,Fengyuan
+tumor,mice,E3246-C,ONC-2020-038,SP20,GV00920190630mpk,GV009,201906,30,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,4,Linchang,Pengli,20200929-16S,结束前,time3,E3246_C,y,Fengyuan
+tumor,mice,E3248-C,ONC-2020-038,SP20,GV00920190630mpk,GV009,201906,30,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,4,Linchang,Pengli,20200929-16S,结束前,time3,E3248_C,y,Fengyuan
+tumor,mice,E3232-C,ONC-2020-038,SP20,GV00920190660mpk,GV009,201906,60,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,6,Linchang,Pengli,20200929-16S,结束前,time3,E3232_C,y,Fengyuan
+tumor,mice,E3233-C,ONC-2020-038,SP20,GV00920190660mpk,GV009,201906,60,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,6,Linchang,Pengli,20200929-16S,结束前,time3,E3233_C,y,Fengyuan
+tumor,mice,E3237-C,ONC-2020-038,SP20,GV009201906120mpk,GV009,201906,120,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,7,Linchang,Pengli,20200929-16S,结束前,time3,E3237_C,y,Fengyuan
+tumor,mice,E3239-C,ONC-2020-038,SP20,GV009201906120mpk,GV009,201906,120,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,7,Linchang,Pengli,20200929-16S,结束前,time3,E3239_C,y,Fengyuan
+tumor,mice,E3241-C,ONC-2020-038,SP20,GV009201906120mpk,GV009,201906,120,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,8,Linchang,Pengli,20200929-16S,结束前,time3,E3241_C,y,Fengyuan
+tumor,mice,E3251-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,9,Linchang,Pengli,20200929-16S,结束前,time3,E3251_C,y,Fengyuan
+tumor,mice,E3252-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,9,Linchang,Pengli,20200929-16S,结束前,time3,E3252_C,y,Fengyuan
+tumor,mice,E3253-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,9,Linchang,Pengli,20200929-16S,结束前,time3,E3253_C,y,Fengyuan
+tumor,mice,E3254-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,9,Linchang,Pengli,20200929-16S,结束前,time3,E3254_C,y,Fengyuan
+tumor,mice,E3255-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,9,Linchang,Pengli,20200929-16S,结束前,time3,E3255_C,y,Fengyuan
+tumor,mice,E3256-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,9,Linchang,Pengli,20200929-16S,结束前,time3,E3256_C,y,Fengyuan
+tumor,mice,E3201-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,10,Linchang,Pengli,20200929-16S,结束前,time3,E3201_C,y,Fengyuan
+tumor,mice,E3202-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,10,Linchang,Pengli,20200929-16S,结束前,time3,E3202_C,y,Fengyuan
+tumor,mice,E3203-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,10,Linchang,Pengli,20200929-16S,结束前,time3,E3203_C,y,Fengyuan
+tumor,mice,E3204-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,10,Linchang,Pengli,20200929-16S,结束前,time3,E3204_C,y,Fengyuan
+tumor,mice,E3205-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,10,Linchang,Pengli,20200929-16S,结束前,time3,E3205_C,y,Fengyuan
+tumor,mice,E3223-C,ONC-2020-038,SP20,GV009201906240mpk,GV009,201906,240,mpk,Female,,,5,2020/9/3,6302 ,BALB/c,10,Linchang,Pengli,20200929-16S,结束前,time3,E3223_C,y,Fengyuan
+,mice,D081151,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081152,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081153,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081154,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081155,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081156,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081157,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081158,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081159,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081160,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081161,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081162,SZ-NLL-2020-003,,0DAY; group:C,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081181,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081182,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081183,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081184,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081185,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081186,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081187,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081188,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081189,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081190,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081191,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D081192,SZ-NLL-2020-003,,0DAY; group:US,,,,,,,,,2020/8/11,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082251,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082252,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082253,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082254,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082255,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082256,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082257,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082258,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082259,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082260,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082261,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082262,SZ-NLL-2020-003,,10DAY; group:C,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082281,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082282,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082283,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082284,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082285,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082286,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082287,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082288,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082289,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082290,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082291,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D1082292,SZ-NLL-2020-003,,10DAY; group:US,,,,,,,,,2020/8/22,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090251,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090252,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090253,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090254,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090255,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090256,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090257,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090258,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090259,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090260,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090261,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090262,SZ-NLL-2020-003,,20DAY; group:C,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090281,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090282,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090283,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090284,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090285,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090286,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090287,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090288,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090289,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090290,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090291,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D2090292,SZ-NLL-2020-003,,20DAY; group:US,,,,,,,,,2020/9/2,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091051,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091052,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091053,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091054,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091055,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091056,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091057,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091058,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091059,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091060,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091061,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091062,SZ-NLL-2020-003,,30DAY; group:C,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091081,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091082,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091083,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091084,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091085,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091086,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091087,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091088,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091089,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091090,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091091,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,mice,D3091092,SZ-NLL-2020-003,,30DAY; group:US,,,,,,,,,2020/9/10,,,,,,20200929-16S,,,,y,Fengyuan
+,,1247654P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1247654P,y,Fengyuan,,,,,,,,,,
+,,1247827P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1247827P,y,Fengyuan,,,,,,,,,,
+,,1248845P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1248845P,y,Fengyuan,,,,,,,,,,
+,,1249386P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1249386P,y,Fengyuan,,,,,,,,,,
+,,1248143P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1248143P,y,Fengyuan,,,,,,,,,,
+,,1249958P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1249958P,y,Fengyuan,,,,,,,,,,
+,,1250008P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1250008P,y,Fengyuan,,,,,,,,,,
+,,1251117P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1251117P,y,Fengyuan,,,,,,,,,,
+,,1253068P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1253068P,y,Fengyuan,,,,,,,,,,
+,,1253667P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1253667P,y,Fengyuan,,,,,,,,,,
+,,1254460P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1254460P,y,Fengyuan,,,,,,,,,,
+,,1248556P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1248556P,y,Fengyuan,,,,,,,,,,
+,,1256176P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1256176P,y,Fengyuan,,,,,,,,,,
+,,1258137P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1258137P,y,Fengyuan,,,,,,,,,,
+,,1257889P,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1257889P,y,Fengyuan,,,,,,,,,,
+,,1247654T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1247654T,y,Fengyuan,,,,,,,,,,
+,,1247827T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1247827T,y,Fengyuan,,,,,,,,,,
+,,1248845T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1248845T,y,Fengyuan,,,,,,,,,,
+,,1248143T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1248143T,y,Fengyuan,,,,,,,,,,
+,,1250008T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1250008T,y,Fengyuan,,,,,,,,,,
+,,1250028T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1250028T,y,Fengyuan,,,,,,,,,,
+,,1251117T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1251117T,y,Fengyuan,,,,,,,,,,
+,,1253667T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1253667T,y,Fengyuan,,,,,,,,,,
+,,1254460T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1254460T,y,Fengyuan,,,,,,,,,,
+,,1248556T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1248556T,y,Fengyuan,,,,,,,,,,
+,,1256176T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1256176T,y,Fengyuan,,,,,,,,,,
+,,1258137T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1258137T,y,Fengyuan,,,,,,,,,,
+,,1257889T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1257889T,y,Fengyuan,,,,,,,,,,
+,,1258048T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1258048T,y,Fengyuan,,,,,,,,,,
+,,1259094T,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,X1259094T,y,Fengyuan,,,,,,,,,,
+,,Ctrl1,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,Ctrl1,y,Fengyuan,,,,,,,,,,
+,,Ctrl2,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,Ctrl2,y,Fengyuan,,,,,,,,,,
+,,Ctrl3,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,,,Ctrl3,y,Fengyuan,,,,,,,,,,
+,,NTC-1,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,是核酸提取过程的阴性指控,,NTC-1,y,Fengyuan,,,,,,,,,,
+,,NTC-2,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,是核酸提取过程的阴性指控,,NTC-2,y,Fengyuan,,,,,,,,,,
+,,NTC-3,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,是核酸提取过程的阴性指控,,NTC-3,y,Fengyuan,,,,,,,,,,
+,,W1,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,是取样过程中，擦拭刀片的拭子，放在白色管子里的（区别放在黄色管子里的）,,W1,y,Fengyuan,,,,,,,,,,
+,,W2,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,是取样过程中，擦拭刀片的拭子，放在白色管子里的（区别放在黄色管子里的）,,W2,y,Fengyuan,,,,,,,,,,
+,,PCR-NTC,Zhongshan20200915,,Zhongshan,Tumor,,,20200929-16S,,是PCR过程的阴性指控,,PCR-NTC,y,Fengyuan,,,,,,,,,,

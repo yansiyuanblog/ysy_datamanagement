@@ -1,0 +1,11 @@
+﻿Project_category,Species,SampleID,Project,Model,Groups,Drug,Drug_batch,Dosage,Dosage_unit,Gender,Birth_date,Collection_date,Age_week,Strain,Cage_num,Sample_source,Feed_site,Batch,Comment,Subject_add_X,Bacteria_16s,16s_lab,Metagenome,Metagenome_lab,Metabolism,Metabolism_lab,Immunity,Path
+test,mice,TT-1,ONC-2020-022, ,,,,,, ,, , , , ,Liver_tissue,Pengli,,, ,,Fengyuan,,,,,,
+test,mice,TT-2,ONC-2020-022,,,,,,,,,,,,,Carcinoma_in_situ_liver_tissue,Pengli,,,,,Fengyuan,,,,,,
+test,mice,TT-3,ONC-2020-022,,,,,,,,,,,,,Carcinoma_in_situ_breast_tissue,Pengli,,,,,Fengyuan,,,,,,
+test,mice,TT-4,ONC-2020-022,,,,,,,,,,,,,Colon_tissue,Pengli,,,,,Fengyuan,,,,,,
+test,mice,TT-5,ONC-2020-022,,,,,,,,,,,,,Cecum_tissue,Pengli,,,,,Fengyuan,,,,,,
+test,mice,TT-6,ONC-2020-022,,,,,,,,,,,,,Intestine_tissue,Pengli,,,,,Fengyuan,,,,,,
+test,mice,TT-7,ONC-2020-022,,,,,,,,,,,,,Duodenum_tissue,Pengli,,,,,Fengyuan,,,,,,
+test,mice,TT-8,ONC-2020-022,,,,,,,,,,,,,Control_H2O,Pengli,,,,,Fengyuan,,,,,,
+,,,,,,,,,,,,,,,,,,,,,, ,,,,,,
+,,,,,,,,,,,,,,,,, ,,,,,,,,,,,

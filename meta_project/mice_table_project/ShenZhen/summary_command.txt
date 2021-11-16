@@ -1,0 +1,2 @@
+result_summary<-metat %>%    group_by(Project,Drug,Collection_date,Time_Point, Batch1) %>%    summarize(n() )
+write.table(result_summary, file = "summary_of_shenzhen.csv", sep = ",",row.names = FALSE)
